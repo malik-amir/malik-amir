@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Malik !
+- Hi, I’m Malik 👋 !
 - I am a mathematician interested in number theory and applications of artificial intelligence to mathematical research. 
 - I’m currently learning / working on category theory, topos theory, algebraic geometry, symbolic classification, mathematical foundations of machine learning 
 - and theorem solvers such as LEAN.
