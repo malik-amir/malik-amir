@@ -1,6 +1,4 @@
-I am Malik !
-
-I am medical doctor during the day, a mathematician at night. 
+I am Malik ! 
 
 See my google scholar profile for a list of my articles : https://scholar.google.com/citations?user=uG67CWYAAAAJ
 
